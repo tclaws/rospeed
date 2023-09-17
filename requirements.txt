@@ -1,0 +1,6 @@
+colorama
+httpx
+orjson
+pyfiglet
+discord_webhook
+requests
