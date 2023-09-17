@@ -1,15 +1,14 @@
-# RoSpeed
-releasing this cus i have been doing this group finder crap for too long, about time i move on lmao.
+# Roblox Claimable Group Finder
+- Python software which allows you to look for ownerless & claimable groups in roblox.
 
-# how to run?!1!!1
-- install all dependencies `pip install -r requirements.txt`
-- edit `Config/config.json` to your needs (choose an io module like socket)
-- enter proxies at `Config/proxies.txt`
-- run `python3 main.py`
-- boom boom shakalaka
+# Usage
+- Install Python3.11 
+- Install packages from requirements.txt (`pip install -r requirements.txt`)
+- Configure `Config/config.json` to your need (choose an IO module, e. g. socket)
+- Fill up `Config/proxies.txt` with your HTTP/s proxies (Proxy Scraper included.)
+- Run `python3 main.py`
+- Enjoy
 
-oh yeah i didn't update this in a long time feel free to customise it or skid it idgaf
-
-sorted gen is broken too btw
-
-me and visions working on something sex
+# Notes
+- I didn't update this in a long time lmfao.
+- Contact me on discord if there's any bugs (Discord: realnovak)
