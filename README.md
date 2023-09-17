@@ -3,7 +3,8 @@ releasing this cus i have been doing this group finder crap for too long, about 
 
 # how to run?!1!!1
 - install all dependencies `pip install -r requirements.txt`
-- edit `config.json` to your needs
+- edit `Config/config.json` to your needs (choose an io module like socket)
+- enter proxies at `Config/proxies.txt`
 - run `python3 main.py`
 - boom boom shakalaka
 
