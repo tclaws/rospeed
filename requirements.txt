@@ -4,3 +4,6 @@ orjson
 pyfiglet
 discord_webhook
 requests
+datetime
+aiohttp
+asyncio
