@@ -4,7 +4,7 @@
         "threads": 100
     },
     "request": {
-        "module": "socket",
+        "module": "socket/httpx/aiohttp/requests",
         "timeout": 5,
         "proxyLess": false
     },
@@ -18,7 +18,7 @@
         "batchsize": 100
     },
     "webhook": {
-        "url": "https://discord.com/api/webhooks/1000807914723881057/YJmXJmlqOP6h5neko_Ck-Ah7PEOOWp5uiktOwRu5-SiX6qXmcNDlYwU14yb2g7s5s2ze",
+        "url": "webhok enteration frfr",
         "groupPing": true
     },
     "proxy": {
